@@ -62,5 +62,5 @@ function writeHash(){
 writeHash();
 
 function done() {
-    console.log(JSON.stringify(manifest, null, 2));
+    fs.writeFileSync('./manifest.json', JSON.stringify(manifest, null, 2));
 }
