@@ -30,7 +30,7 @@ for (var folder of fs.readdirSync('.')) {
     if (fs.statSync(base).isDirectory()) {
         for (let file of walkSync(base)) {
             file = file.replace(/\\/g, '/');
-            manifest[folder].push({name: file, url: "https://github.com/dpwhittaker/RoC-Assets/raw/master/" + folder + "/" + file});
+            manifest[folder].push({name: file, url: "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/" + folder + "/" + file});
         }
     }
 }
