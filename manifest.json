@@ -2,7 +2,7 @@
   "Kayliaah's Better Music Mod": [
     {
       "name": "BetterMusicMod_V2.1.zip",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/Kayliaah's Better Music Mod/BetterMusicMod_V2.1.zip",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/Kayliaah's Better Music Mod/BetterMusicMod_V2.1.zip",
       "hash": "c3d935dd560b9f2e0eb5480847eed68f",
       "size": 655162566
     }
@@ -10,55 +10,55 @@
   "required": [
     {
       "name": "music/mus_title_2_lp.mp3",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/music/mus_title_2_lp.mp3",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/music/mus_title_2_lp.mp3",
       "hash": "23224881886f26e686e54c5cadb0acc0",
       "size": 1691520
     },
     {
       "name": "music/mus_title_lp.mp3",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/music/mus_title_lp.mp3",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/music/mus_title_lp.mp3",
       "hash": "4af47c8a431241db763cb570d84b151a",
       "size": 3506606
     },
     {
       "name": "Relics-Login.zip",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/Relics-Login.zip",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/Relics-Login.zip",
       "hash": "67525ffc646a6e2202c67d719b5a933e",
       "size": 345255
     },
     {
       "name": "relics_1.tre",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/relics_1.tre",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/relics_1.tre",
       "hash": "c00336817a0f35b7d515126fcc0130ae",
       "size": 40625
     },
     {
       "name": "string/en/live_motd.stf",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/string/en/live_motd.stf",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/string/en/live_motd.stf",
       "hash": "cd085965fcdfeae3a57ad2098d32d642",
       "size": 1057
     },
     {
       "name": "swgemu_live.cfg",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/swgemu_live.cfg",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/swgemu_live.cfg",
       "hash": "ce50557a28ae9b2fa287233b84339c35",
       "size": 2188
     },
     {
       "name": "sytners_sat_maps_2.tre",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/sytners_sat_maps_2.tre",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/sytners_sat_maps_2.tre",
       "hash": "548a316bd6d4e5c8d418e095d8cb271d",
       "size": 109025797
     },
     {
       "name": "texture/loading/space/images/space_load_pvp.dds",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/texture/loading/space/images/space_load_pvp.dds",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/texture/loading/space/images/space_load_pvp.dds",
       "hash": "445cc97df1e47fc0f01f2d42a22d2083",
       "size": 349680
     },
     {
       "name": "texture/ui_background_arrow.dds",
-      "url": "https://raw.githubusercontent.com/dpwhittaker/RoC-Assets/master/required/texture/ui_background_arrow.dds",
+      "url": "https://github.com/dpwhittaker/RoC-Assets/raw/master/required/texture/ui_background_arrow.dds",
       "hash": "5ffd6c592cf3f369a9d3f355ccd1dee9",
       "size": 2766352
     }
