@@ -1,0 +1,16 @@
+{
+    "required": [
+        {"name":"relics_1.tre","size":40625,"md5":"c00336817a0f35b7d515126fcc0130ae","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/relics_1.tre"},
+        {"name":"swgemu_live.cfg","size":2188,"md5":"ce50557a28ae9b2fa287233b84339c35","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/swgemu_live.cfg"},
+        {"name":"sytners_sat_maps_2.tre","size":109025797,"md5":"548a316bd6d4e5c8d418e095d8cb271d","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/sytners_sat_maps_2.tre"},
+        {"name":"Relics-Login.zip","size":345255,"md5":"67525ffc646a6e2202c67d719b5a933e","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/Relics-Login.zip"},
+        {"name":"texture/ui_background_arrow.dds","size":2766352,"md5":"298e8dbf1afe77da0da7db7ec380a824","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/ui_background_arrow.dds"},
+        {"name":"texture/loading/space/images/space_load_pvp.dds","size":349680,"md5":"445cc97df1e47fc0f01f2d42a22d2083","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/space_load_pvp.dds"},
+        {"name":"string/en/live_motd.stf","size":1057,"md5":"cd085965fcdfeae3a57ad2098d32d642","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/live_motd.stf"},
+        {"name":"music/mus_title_lp.mp3","size":3506606,"md5":"4af47c8a431241db763cb570d84b151a","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/mus_title_lp.mp3"},
+        {"name":"music/mus_title_2_lp.mp3","size":1691520,"md5":"23224881886f26e686e54c5cadb0acc0","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/mus_title_2_lp.mp3"}
+    ],
+    "Kayliaah's Better Music Mod": [
+        {"name":"BetterMusicMod_V2.1.zip","size":655162566,"md5":"c3d935dd560b9f2e0eb5480847eed68f","url":"https://github.com/dpwhittaker/RoC-Launcher/releases/download/Assets/BetterMusicMod_V2.1.zip"}
+    ]
+}
